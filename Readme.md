@@ -1,6 +1,7 @@
 # Sungwoo Ha
 - Window Developer
 
+---
 # Strength
 
 ---
