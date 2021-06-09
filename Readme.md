@@ -1,7 +1,7 @@
-#Sungwoo Ha
--Window Developer
+# Sungwoo Ha
+- Window Developer
 
-#Strength
+# Strength
 
-#Experience
+# Experience
 
